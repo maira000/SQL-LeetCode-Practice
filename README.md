@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0183-customers-who-never-order](https://github.com/maira000/SQL-LeetCode-Practice/tree/master/0183-customers-who-never-order) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/maira000/SQL-LeetCode-Practice/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [1148-article-views-i](https://github.com/maira000/SQL-LeetCode-Practice/tree/master/1148-article-views-i) |
 | [1280-students-and-examinations](https://github.com/maira000/SQL-LeetCode-Practice/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/maira000/SQL-LeetCode-Practice/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
